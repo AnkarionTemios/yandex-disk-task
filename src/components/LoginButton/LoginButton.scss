@@ -1,0 +1,20 @@
+.login-button {
+  button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 7.5px 50px;
+    background: #6e50d2;
+    transition: .2s ease background-color;
+    color: #fdfdfd;
+    font-size: 18px;
+  
+    &:hover {
+      background: darken(#6e50d2, 5%);
+    }
+  }
+  
+  a {
+    text-decoration: none;
+  }
+}

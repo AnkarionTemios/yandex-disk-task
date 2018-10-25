@@ -1,0 +1,10 @@
+.file-manager .files-table .rt-noData {
+  display: none; }
+
+.file-manager .files-table .name-cell {
+  cursor: pointer;
+  transition: .2s ease background; }
+  .file-manager .files-table .name-cell:hover {
+    background: #e6e6e6; }
+  .file-manager .files-table .name-cell i {
+    width: 16px; }

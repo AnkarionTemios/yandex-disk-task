@@ -1,0 +1,14 @@
+.login-button button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 7.5px 50px;
+  background: #6e50d2;
+  transition: .2s ease background-color;
+  color: #fdfdfd;
+  font-size: 18px; }
+  .login-button button:hover {
+    background: #5d3ccd; }
+
+.login-button a {
+  text-decoration: none; }
